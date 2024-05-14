@@ -1,2 +1,3 @@
 # Words_Counter
-This Project is a simple Words and characters counter application built using HTML,CSS and JavaScript. It provide users with a convenient tool for measuring words and character in the sentence or paragraph.
+This project is designed to build a word counter application using HTML, CSS, and JavaScript. It provides users with a convenient tool for measuring words and characters in a sentence or paragraph.
+
